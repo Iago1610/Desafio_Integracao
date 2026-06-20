@@ -22,4 +22,4 @@ Como o desafio estipula o uso de planos gratuitos, o código foi mantido estrutu
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/iago1610/Desafio_Integracao.git](https://github.com/Desafio_Integracao/DesafioIntegracao.git)
+   git clone [https://github.com/iago1610/Desafio_Integracao.git](https://github.com/Desafio_Integracao/Desafio_Integracao.git)
